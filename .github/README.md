@@ -10,4 +10,4 @@ Sistema criado um banco de dados  pensando em uma poss√≠vel plataforma onde ter√
 # 2. Modelo Entidade-Relacionamento 
 
 ## Workbench modelo ER
-![](../projeto-final-programacao/img/diagrama%20er.png)
+![](diagrama%20er.png)
