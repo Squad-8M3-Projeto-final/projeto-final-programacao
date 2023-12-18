@@ -6,7 +6,7 @@
 Sistema criado um banco de dados  pensando em uma possível plataforma onde teríamos: login de usuário, podendo esse logar como aluno, facilitador ou administrador na plataforma; um canal com todas as atividades, formulários, descritivos de projetos, entre outros materiais didáticos; um canal para comunicação entre os usuários, com canais para diferentes propósitos e mensagens; um canal de vídeo chamadas onde seriam realizadas as aulas.
 
 Problematização:
-O sistema foi criado pEnsando em uma instituição de ensino que atualmente usa o seguinte modelo de condução do curso:
+O sistema foi criado pensando em uma instituição de ensino que atualmente usa o seguinte modelo de condução do curso:
 
 1. DISCORD – Canal de comunicação oficial da comunidade 
 2. ZOOM – Plataforma onde são dadas as aulas
