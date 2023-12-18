@@ -1,4 +1,4 @@
-> Projeto Modolo 3 de Banco de Dados  
+> Projeto Modolo 3 de Banco de Dados.  
 
 # 1. Plataforma PDA
 
