@@ -6,10 +6,12 @@
 Sistema criado um banco de dados  pensando em uma possível plataforma onde teríamos: login de usuário, podendo esse logar como aluno, facilitador ou administrador na plataforma; um canal com todas as atividades, formulários, descritivos de projetos, entre outros materiais didáticos; um canal para comunicação entre os usuários, com canais para diferentes propósitos e mensagens; um canal de vídeo chamadas onde seriam realizadas as aulas.
 
 Problematização:
- Atualmente, o programadores do amanhã usa o seguinte modelo de condução do curso:
+Atualmente, o sistema foi criado ppensando em uma instituição de ensino que usa o seguinte modelo de condução do curso:
+
 1. DISCORD – Canal de comunicação oficial da comunidade 
 2. ZOOM – Plataforma onde são dadas as aulas
 3. Google Classroom – Plataforma de atividades e outros materiais didáticos.
+
 Esse sistema foi criado pensando em uma instituição de ensino que administra atualmente duas turmas maneira simultânea, cada uma com cerca de 60 alunos, além de colaboradores multidisciplinares para cada turma, e para a gestão geral da ong e das plataformas. No dia a dia, esse modelo com várias plataformas, cada uma para uma função diferente, pode se tornar confuso e pouco prático pra quem lida com a
 administração. 
 
