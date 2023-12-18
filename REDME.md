@@ -10,8 +10,4 @@ Sistema de banco de dados  pensando em uma possível plataforma onde teríamos: 
 # 2. Modelo Entidade-Relacionamento 
 
 ## Workbench modelo ER
-<p align="center">
-   <img alt=" foto MODELO ER" src="../projeto-final-programacao/img/diagrama er.png">
-</p>
-
- 
+![](../projeto-final-programacao/img/diagrama%20er.png)
