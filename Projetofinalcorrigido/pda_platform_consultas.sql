@@ -1,5 +1,4 @@
-use plataforma_pda;
-
+use pda_platform;
 /*união de chave id_user e estudante e turma */
 select u.*, c.id_class, c.class_name, s.student_registration, s.id_user
 from
