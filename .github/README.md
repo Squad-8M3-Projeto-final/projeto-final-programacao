@@ -30,8 +30,5 @@ projetos, entre outros materiais didáticos; um canal para comunicação entre o
 ![](projetofinal.png)
 # 3. Analises feita com base no novo modelo
  
-<<<<<<< HEAD
 <a href="https://drive.google.com/file/d/1ACVwT7cJdcw8yNBZWptgGE6e7eHwp_hu/view?usp=sharing">![](pdf.png)</a>
-=======
-<a href="https://drive.google.com/file/d/1hXjygGlAUzjvd6u4bPihDx3S7DNEMGqZ/view">![](pdf.png)</a>
->>>>>>> 98448a9832871914adade85fac6a88f623ac7058
+
