@@ -7,7 +7,7 @@ from
     inner join tb_student s on u.id_user = s.id_user
     inner join tb_class c on s.id_class = c.id_class;
 
---média das idades dos 23 alunos 
+/*média das idades dos 23 alunos */
 use pda_platform;
  select
     avg((round(datediff(curdate(), u.user_birth_date) / 365.25))) as media_idade_studants
