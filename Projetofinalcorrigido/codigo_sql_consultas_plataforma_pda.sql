@@ -1,6 +1,6 @@
 use plataforma_pda;
 
---união de chave id_user e estudante e turma 
+/*união de chave id_user e estudante e turma */
 select u.*, c.id_class, c.class_name, s.student_registration, s.id_user
 from
     tb_user u
@@ -15,7 +15,7 @@ use pda_platform;
     tb_user u
  inner join tb_student s on s.id_user = u.id_user;
 
- --idade dos alunos
+ /*idade dos alunos*/
 use pda_platform;
 select
     u.id_user,
@@ -48,7 +48,7 @@ from
 where
 /* aqui escolhe a turma*/
 c.class_name = 'turma 2';
--- consulta para puxar quantos alunos ficaram com nota escolhida na a.grade
+/* consulta para puxar quantos alunos ficaram com nota escolhida na a.grade*/
 select
 count(*) as total_alunos_nota
 from
@@ -59,7 +59,7 @@ where
 /* aqui escolhe a nota ex: a.grade >= 7 and (a.grade < 10) */
 a.grade <= 6;
 
--- consulta para puxar o nome dos alunos que tiraram nota que escolher na a.grade
+/*consulta para puxar o nome dos alunos que tiraram nota que escolher na a.grade*/
 select
 u.user_name,
 a.grade
