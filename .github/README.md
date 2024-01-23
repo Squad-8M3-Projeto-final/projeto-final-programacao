@@ -27,7 +27,7 @@ projetos, entre outros materiais didáticos; um canal para comunicação entre o
 # 2. Modelo Entidade-Relacionamento 
 
 ## Workbench modelo ER
-![](projetofinal.png)
+![](diagrama_ER.png)
 # 3. Analises feita com base no novo modelo
  
 <a href="https://drive.google.com/file/d/1ACVwT7cJdcw8yNBZWptgGE6e7eHwp_hu/view?usp=sharing">![](pdf.png)</a>
