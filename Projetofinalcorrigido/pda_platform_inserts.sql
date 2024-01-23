@@ -42,6 +42,7 @@ insert into tb_administrator (adm_role, contract_type, id_user) values
 ('gestor de conhecimento', 'pj',3),
 ('gestora de conhecimento', 'pj',4),
 ('gestora do discord', 'pj',5);
+
 insert into tb_class
 (class_name,start_date,conclusion_date) values
 ('turma 1','2020-06-01','2021-05-01'),
@@ -75,7 +76,6 @@ insert into tb_student
 ('00000131',26,1),
 ('00000132',27,2),
 ('00000133',28,3);
-
 
 insert into tb_subject
 (workload,subject_name) values
